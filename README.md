@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mriganka10/**
 
+- ⚡ Fun fact **I love coding but I don't want to be a coder**
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mriganka&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mriganka" /> </p> -->
 
 
