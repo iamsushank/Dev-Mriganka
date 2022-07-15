@@ -1,4 +1,4 @@
-![](https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/wp9641787-front-end-developer-wallpapers.jpg)
+![](https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Untitled-1.jpg)
 
 <h1 align="center">Hi , I'm Mriganka Mondal 👋</h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
