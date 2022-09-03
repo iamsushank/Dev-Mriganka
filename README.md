@@ -42,7 +42,7 @@
 ## 🚀 Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cpp,c,java,bootstrap,wordpress,mysql,git,netlify,vscode,figma,au,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cpp,c,java,mysql,bootstrap,wordpress,git,netlify,vscode,figma,au,ai,ps,pr)](https://skillicons.dev)
 
 <br>
 
