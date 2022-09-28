@@ -57,12 +57,9 @@
 
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
-  <p align="center"> 
      <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dev-Mriganka&theme=onedark"/>
-  <p align="center">  
-  
-  </a>
+      <img src="https://github-profile-trophy.vercel.app/?username=Dev-Mriganka&theme=onedark" />
+     </a>
 </div>
 
 ---
@@ -73,7 +70,9 @@
 <br></div>
 
 <p align="center">
-<img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" />
+<img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" />
+  <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+  <img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" />
 </p>
 <br>
 
