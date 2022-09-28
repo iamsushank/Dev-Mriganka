@@ -50,7 +50,8 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Mriganka&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mriganka&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mriganka&theme=tokyonight" align="center" />
+  <img width="30%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mriganka&theme=tokyonight" align="left" />
+  <img width="67%" height="220" src="https://activity-graph.herokuapp.com/graph?username=Dev-Mriganka&theme=tokyonight" align="right" />
 </p>
 
 ---
