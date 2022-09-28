@@ -47,28 +47,32 @@
 <br>
 
 ## 📊 My Github Stats
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Mriganka&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mriganka&theme=tokyonight" />
-  <img width="30%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mriganka&theme=tokyonight" align="left" />
+  <img width="29%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mriganka&theme=tokyonight" align="left" />
   <img width="67%" height="220" src="https://activity-graph.herokuapp.com/graph?username=Dev-Mriganka&theme=tokyonight" align="right" />
 </p>
+
 
 ---
 
 <div align="center">
-  <h4>🏆 Github Profile Trophy</h4>
+  <h4>🏆 Github Profile Trophy </h4>
      <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Dev-Mriganka&theme=onedark" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Dev-Mriganka&theme=onedark" align="center" />
      </a>
 </div>
 
 ---
+<br>
 
-<div align="center">
+<div>
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-Mriganka}/count.svg" /></p> 
-<br></div>
+<br>
+</div>
 
 <p align="center">
 <img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" />
