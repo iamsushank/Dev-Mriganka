@@ -51,21 +51,17 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Mriganka&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mriganka&theme=tokyonight" />
-  <img width="29%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mriganka&theme=tokyonight" align="left" />
-  <img width="67%" height="220" src="https://activity-graph.herokuapp.com/graph?username=Dev-Mriganka&theme=tokyonight" align="right" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mriganka&theme=tokyonight" align="center" />
 </p>
 
 
 ---
+<div align="center"  >
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dev-Mriganka&column=7&theme=onedark"" />
+  </a>
+<div>
 
-<div align="center">
-  <h4>🏆 Github Profile Trophy </h4>
-     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Dev-Mriganka&theme=onedark" align="center" />
-     </a>
-</div>
-
----
 <br>
 
 <div>
