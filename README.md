@@ -57,8 +57,12 @@
 
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozakir178&theme=onedark" alt="mozakir178" />
-    </p>
+  <p align="center"> 
+     <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dev-Mriganka&theme=onedark"/>
+  <p align="center">  
+  
+  </a>
 </div>
 
 ---
