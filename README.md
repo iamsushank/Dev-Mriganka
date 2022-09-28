@@ -78,6 +78,13 @@
 <br>
 
 
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kf2npxmc37droaf4jfmz3c5pmi&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+
+<br/>  
+
+
 <hr>
 <p align="center">
   <i>Ask me anything I'am Happy to Help! </i>
